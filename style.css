@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color:rgb(110, 28, 28);
+}
+
+body{
+    background-color: bisque;
+}
+
+p.carta{
+    position: relative;
+    top:25px;
+    left:0px;
+}
+
+p.cafe{
+    position: relative;
+    top: 60px;
+    left: 300px;
+}
+
+p.contacto{
+    position: relative;
+    top: 90px;
+    left: 600px;
+}
+
+#carta2{
+   position:relative;
+}
