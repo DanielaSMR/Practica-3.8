@@ -16,15 +16,28 @@ p.carta{
 p.cafe{
     position: relative;
     top: 60px;
-    left: 300px;
+    left: 550px;
 }
 
 p.contacto{
     position: relative;
     top: 90px;
-    left: 600px;
+    left: 1200px;
 }
 
 #carta2{
    position:relative;
+}
+
+.foto1{
+    display:block;
+    margin-left:600px;
+    margin-right:650px;
+    width:100px;
+}
+.foto2{
+    display:block;
+    margin-left:1250px;
+    margin-right:650px;
+    width:100px;
 }

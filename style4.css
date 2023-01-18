@@ -1,6 +1,7 @@
 h1{
     text-align: center;
     color: burlywood;
+    font-family: serif;
 }
 h2{
     text-align: center;
@@ -9,4 +10,5 @@ h2{
 p{
     color: burlywood;
     text-align: center;
+    font-family: monospace;
 }
