@@ -1,4 +1,4 @@
-h1{
+h1.inicio{
     text-align: center;
     color:rgb(110, 28, 28);
 }
@@ -25,9 +25,7 @@ p.contacto{
     left: 1200px;
 }
 
-#carta2{
-   position:relative;
-}
+
 
 .foto1{
     display:block;
@@ -37,7 +35,11 @@ p.contacto{
 }
 .foto2{
     display:block;
-    margin-left:1250px;
+    margin-left:1260px;
     margin-right:650px;
     width:100px;
+}
+.foto3{
+    display: block;
+    margin-left: 40px;
 }

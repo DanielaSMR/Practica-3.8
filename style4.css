@@ -12,3 +12,13 @@ p{
     text-align: center;
     font-family: monospace;
 }
+iframe{
+    display: block;
+    margin-left: 500px;
+}
+p.home{
+    text-align: left;
+}
+p.final{
+    text-align: center;
+}
