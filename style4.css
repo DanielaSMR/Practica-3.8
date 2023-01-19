@@ -22,3 +22,16 @@ p.home{
 p.final{
     text-align: center;
 }
+
+form{
+    text-align: center;
+    background-color: rgb(88, 22, 22);
+    color: bisque;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding: 10px;
+    border: brown 2px solid;
+    padding: 3px 10px;
+  border: brown 2px solid;
+  border-radius: 20px;
+}
